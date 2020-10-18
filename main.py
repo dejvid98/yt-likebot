@@ -49,8 +49,8 @@ firstName = createFirstName()
 lastName = firstName[::1]
 userName = createUserName()
 password = createPassword()
-phoneNumber = '0600286191'
-videoName = 'Matematika 1 prva nedelja'
+phoneNumber = ''
+videoName = ''
 
 driver = webdriver.Chrome(PATH)
 
